@@ -1,0 +1,3 @@
+ISBN1,Book 1,John Smith,Programming,2018,false
+ISBN2,Book 2,Tom Parker,Business,2005,true
+ISBN3,Book 3,Brian Johnson,Communication,2006,true
