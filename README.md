@@ -1,9 +1,9 @@
 Employee Training Management System
 
-Overview
+  Overview
 This Java-based console application allows you to manage employee training records efficiently. It supports adding, displaying, removing, searching, sorting employees, and importing/exporting employee data from/to files.
 
-Features
+  Features
 Add new employees with validation on employee numbers and course names
 
 Display all employee records in a formatted table
