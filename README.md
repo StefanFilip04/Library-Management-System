@@ -1,28 +1,33 @@
-Employee Training Management System
+Book Management
+Add Book: Register new books with ISBN, title, author, genre, and year
 
--  Overview
+Display All Books: View all books in the library
 
-This Java-based console application allows you to manage employee training records efficiently. 
-It supports adding, displaying, removing, searching, sorting employees, and importing/exporting employee data from/to files.
+Find Book: Search for books by ISBN
 
+Remove Book: Delete books from the system
 
--  Features
+Member Management
+Add Member: Register new library members with ID and name
 
-Add new employees with validation on employee numbers and course names
+Display All Members: View all registered members
 
-Display all employee records in a formatted table
+Find Member: Search for members by ID
 
-Remove employees by their employee number
+Remove Member: Delete members from the system
 
-Find employees by course name
+Transaction Management
+Loan Book: Check out books to members (1 book per member limit)
 
-Display statistics about employee courses
+Return Book: Process book returns and update availability
 
-Sort employees by name or years of experience
+Data Persistence
+Save Data: Export all data to books.txt and members.txt
 
-Import employee data from a file (employee.txt)
+Load Data: Import data from text files on startup
 
-Export employee data to a file (employee.txt)
+🚀 Installation & Usage
+Prerequisites
+Java JDK 8 or higher
 
-Automatically saves and loads employee data on program start and exit
-
+Basic command line knowledge
