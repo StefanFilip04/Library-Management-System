@@ -19,7 +19,9 @@ Find Member: Search for members by ID
 
 Remove Member: Delete members from the system
 
+
 -  	Transaction Management
+
 Loan Book: Check out books to members (1 book per member limit)
 
 Return Book: Process book returns and update availability
