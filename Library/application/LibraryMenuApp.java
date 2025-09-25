@@ -58,7 +58,7 @@ public class LibraryMenuApp {
                     default -> System.out.println("Invalid choice.");
                 }
             } else {
-                // If user enters non-integer, clear the invalid input
+                //if non-integer, clear the invalid input and display error
                 scan.nextLine();
                 System.out.println("Invalid input. Please enter a number.");
             }
