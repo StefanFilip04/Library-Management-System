@@ -1,4 +1,5 @@
-Book Management
+- Book Management
+
 Add Book: Register new books with ISBN, title, author, genre, and year
 
 Display All Books: View all books in the library
@@ -7,7 +8,9 @@ Find Book: Search for books by ISBN
 
 Remove Book: Delete books from the system
 
+
 -  Member Management
+
 Add Member: Register new library members with ID and name
 
 Display All Members: View all registered members
